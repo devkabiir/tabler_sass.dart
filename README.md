@@ -80,3 +80,5 @@ Please open a new issue [here](https://github.com/devkabiir/tabler_sass.dart/iss
 
 Code and documentation Copyright 2018 Dinesh Ahuja ([devkabiir](https://dev.kabiir.me))  
 Code released under the [MIT License](https://github.com/devkabiir/tabler_sass.dart/blob/master/LICENSE).
+
+Code and documentation copyright 2018 the [Tabler Authors](https://github.com/tabler/tabler/graphs/contributors) and [codecalm.net](codecalm.net). Code released under the MIT License.
